@@ -1,2 +1,2 @@
-# TASK-3
+# PRODIGY_CS_05
 Password checker
